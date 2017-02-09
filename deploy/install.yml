@@ -1,0 +1,9 @@
+---
+hosts:webservers
+        - tasks
+                user:
+                        name=toto
+                        id=10000
+                        home=/home/toto
+                        shell/=/bin/ksh
+                        comment="user toto"
