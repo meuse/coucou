@@ -1,0 +1,5 @@
+[webservers]
+websrv1 ansible_host=websrv1.goot.com
+websrv2 ansible_host=websrv1.goot.com
+websrv3 ansible_host=websrv1.goot.com
+websrv4 ansible_host=websrv1.goot.com
